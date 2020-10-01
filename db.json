@@ -1,4 +1,22 @@
 {
-    "id": 1,
-    "texto": "Meu texto"
+    "livros": [
+        {
+            "id":1,
+            "titulo": "Logica de Progamação",
+            "autor": "Paulo Silveira e Adriano Almeida",
+            "valor": 20
+        },
+        {
+            "id":2,
+            "titulo": "Codigo Limpo",
+            "autor": "Robert C. Martin",
+            "valor": 90
+        },
+        {
+            "id":3,
+            "titulo": "Arquitetura Limpa",
+            "autor": "Robert C. Martin",
+            "valor": 85
+        }
+    ]
 }
